@@ -30,5 +30,4 @@ class WaitingTeam < ApplicationRecord
     end
     return true
   end
-
 end

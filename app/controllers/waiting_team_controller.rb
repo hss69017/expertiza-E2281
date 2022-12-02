@@ -71,6 +71,4 @@ class WaitingTeamController < ApplicationController
     end
     sign_up_waitlist_team
   end
-
-
 end
